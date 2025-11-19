@@ -13,15 +13,21 @@ PetImages/
    Dog/
    
 Total images: 24,959
+
 Training: 19,968
+
 Validation: 4,991
 
 🧠 Model Architecture
 
 Image preprocessing (resize, normalization)
+
 Data augmentation
+
 Convolutional + MaxPooling layers
+
 Dense layers with ReLU
+
 Sigmoid output for binary classification (cat vs dog)
 
 
